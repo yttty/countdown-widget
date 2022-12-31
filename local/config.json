@@ -1,0 +1,28 @@
+{
+    "display.font.family": "Arial",
+    "display.font.size": 12,
+    "display.opacity.levels": [
+        1,
+        0.6,
+        0.2
+    ],
+    "display.opacity.defaultLevel": 0,
+    "display.bgcolors": [
+        "Red",
+        "Coral",
+        "Cyan",
+        "Gold",
+        "HotPink",
+        "MediumSlateBlue",
+        "Chocolate",
+        "BurlyWood",
+        "GoldenRod",
+        "Orange",
+        "SpringGreen",
+        "Yellow",
+        "Turquoise"
+    ],
+    "display.tmpHideInterval": 3,
+    "display.updateInterval": 600,
+    "days.autoHiddenDays": 92
+}
